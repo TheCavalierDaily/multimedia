@@ -39,7 +39,7 @@
   padding-top:-10px;
   /*background-color:#000;*/
   color:#000;
-  opacity:0.4;
+  opacity:0.6;
   font-weight: 600;
   font-size:30px;
   font-style:italic;
@@ -49,6 +49,11 @@
 
 .navBox a {
   font-size:20px;
+}
+
+.navBox:hover {
+  opacity:1.0;
+  transition: opacity 0.5s ease;
 }
 
 
