@@ -11,8 +11,10 @@
 .fullSpanImg {
   width:100%;
   height: 500px;
-  /*background-image: url("https://s3.amazonaws.com/media.cav/9998_rotundaconstruction2mbronfin_17f.jpg") center no-repeat;*/
-  /*background-color:#e8e8e8;*/
+}
+
+.fullSpanImg:hover {
+  opacity:0.5;
 }
 
 .fullSpanImg h1 {
