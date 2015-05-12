@@ -5,6 +5,19 @@
 
 <!--<TITLE>The Cavalier Daily: Year in Review</TITLE>-->
 <link rel="stylesheet" href="multimedia.css">
+
+<script>
+  $(document).ready( function() {
+
+    $('.gallery-item').hover( function() {
+        $(this).find('.img-title').fadeIn(300);
+    }, function() {
+        $(this).find('.img-title').fadeOut(100);
+    });
+	
+});
+</script>
+
 </head>
 
 <body>
