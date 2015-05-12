@@ -29,27 +29,32 @@
   font-size: 50px;
 }
 
-.navBox {
-  float:right;
-  width:200px;
-  height:100px;
-  margin-top:-2%;
-  margin-right:10px;
-  padding-left:20px;
-  padding-top:-10px;
-  /*background-color:#000;*/
-  color:#000;
+.fullSpanImg h2 {
+  color:#e8e8e8;
   opacity:0.6;
   font-weight: 600;
   font-size:30px;
+  font-family:"Helvetica";
   font-style:italic;
   line-height:0.5;
   text-align:center;
 }
 
-.navBox a {
-  font-size:20px;
-}
+/*.navBox {*/
+/*  float:right;*/
+/*  width:200px;*/
+/*  height:100px;*/
+/*  margin-top:-2%;*/
+/*  margin-right:10px;*/
+/*  padding-left:20px;*/
+/*  padding-top:-10px;*/
+  /*background-color:#000;*/
+  
+/*}*/
+
+/*.navBox a {*/
+/*  font-size:20px;*/
+/*}*/
 
 .split {
   width:100%;
