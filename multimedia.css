@@ -59,14 +59,14 @@
 }
 
 .splitL {
-  width:48.5%;
+  width:49%;
   float:left;
   height:100%;
   background-color:#000;
 }
 
 .splitR {
-  width:48.5%;
+  width:49%;
   float:right;
   height:100%;
   background-color:#000;
