@@ -18,11 +18,10 @@
 
 /*sub-gallery styles*/
 
-.nine-column {
-  margin-top:2%;
+.sub-gallery {
+  margin-top:4%;
 }
 
 .stacked-column {
   display:block;
-  margin-top:2%;
 }
