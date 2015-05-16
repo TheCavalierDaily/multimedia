@@ -1,6 +1,7 @@
 /*masthead styles*/
 
 .masthead {
+  width: 70%;
   background-color: #000;
   height: 200px;
 }
