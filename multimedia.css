@@ -1,1 +1,17 @@
+/*masthead styles*/
 
+.masthead {
+  background-color: #000;
+  height: 20%;
+}
+
+/*featured gallery styles*/
+
+.featured {
+  height:auto;
+}
+
+.featured-gallery {
+  background-color: #e8e8e8;
+  height:600px;
+}
