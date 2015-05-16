@@ -23,3 +23,9 @@
   background-color: #e8e8e8;
   height:auto;
 }
+
+/*sub-gallery styles*/
+
+.stacked-column {
+  display:block;
+}
