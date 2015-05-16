@@ -26,13 +26,6 @@
 
 /*sub-gallery styles*/
 
-.img-col {
-  background-color:#e8e8e8;
-  height:100px;
-}
-
 .stacked-column {
-  /*display:block;*/
-  background-color:#000;
-  height:100px;
+  display:block;
 }
