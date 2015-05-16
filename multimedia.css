@@ -26,3 +26,9 @@
 .stacked-column {
   display:block;
 }
+
+/*general*/
+
+img:hover {
+  opacity:0.6;
+}
