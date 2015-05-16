@@ -17,6 +17,22 @@
   height:auto;
 }
 
+.featured-gallery  h1 {
+   font-family: "Helvetica";
+   font-size: 50px;
+   font-weight:700;
+   color: #596969;
+   opacity:0.6;
+ }
+
+.featured-gallery h2 {
+  font-style:italic;
+  font-weight:700;
+  font-size:30px;
+  color: #596969;
+  opacity:0.6;
+} 
+
 /*sub-gallery styles*/
 
 .sub-gallery {
@@ -27,20 +43,3 @@
   display:block;
 }
 
-/*text styles*/
-
- h1 {
-   font-family: "Helvetica";
-   font-size: 50px;
-   font-weight:700;
-   color: #596969;
-   opacity:0.6;
- }
-
-h2 {
-  font-style:italic;
-  font-weight:700;
-  font-size:30px;
-  color: #596969;
-  opacity:0.6;
-}
