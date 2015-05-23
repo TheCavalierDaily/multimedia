@@ -44,6 +44,15 @@ body {
   padding-right:0px;
 }
 
+@media screen and (max-width: 991px) {
+  .gallery-title {
+    text-align:center;
+  }
+  .see-more {
+    text-align:center;
+  }
+}
+
 .more {
   font-size:1.5em;
   font-weight:700;
