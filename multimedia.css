@@ -44,6 +44,14 @@ body {
   padding-right:0px;
 }
 
+.see-more a {
+  color: #000029;
+}
+
+.see-more a:hover {
+  color:#19193E;
+}
+
 @media screen and (max-width: 991px) {
   .gallery-title {
     text-align:center;
