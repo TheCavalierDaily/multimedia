@@ -23,8 +23,13 @@
   margin-top:6%;
 }
 
+.large-sub {
+  padding:0px;
+}
+
 .stacked-column {
   display:block;
+  padding:0px;
 }
 
 /*general*/
