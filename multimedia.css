@@ -17,14 +17,22 @@
   height:auto;
 }
 
-.featured-gallery .title {
-  width:40%;
-  margin-left:5%;
-  z-index: 1000;
+.page-title {
+  text-align:center;
   font-size: 3em;
-  color:#fff;
+  color: #000029;
   font-weight:700;
+}
+
+.gallery-title {
+  font-size:2em;
+  color: #000029;
+}
+
+.read-more {
+  font-size:2em;
   font-style:italic;
+  color: #000029;
 }
 
 /*sub-gallery styles*/
