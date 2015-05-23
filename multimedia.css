@@ -17,6 +17,16 @@
   height:auto;
 }
 
+.featured-gallery .title {
+  width:40%;
+  margin-left:5%;
+  z-index: 1000;
+  font-size: 3em;
+  color:#fff;
+  font-weight:700;
+  font-style:italic;
+}
+
 /*sub-gallery styles*/
 
 .sub-gallery {
