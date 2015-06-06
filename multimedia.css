@@ -51,7 +51,7 @@ body {
   opacity:0.8;
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 767px) {
   .gallery-title {
     text-align:center;
   }
