@@ -61,7 +61,7 @@ body {
     padding-left:0px;
   }
   
-  .sub-gallery, .sub-gallery .col-xs-12 {
+  .sub-gallery, .sub-gallery .col-xs-12, .sub-gallery .col-xs-12.stacked-column img {
     margin-top:2%;
   }
 }
