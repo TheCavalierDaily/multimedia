@@ -60,6 +60,10 @@ body {
     text-align:center;
     padding-left:0px;
   }
+  
+  .sub-gallery, .sub-gallery .col-xs-12 {
+    margin-top:2%;
+  }
 }
 
 .more {
