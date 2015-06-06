@@ -51,6 +51,28 @@ body {
   opacity:0.8;
 }
 
+/*sub-gallery styles*/
+
+.sub-gallery {
+  margin-top:6%;
+}
+
+.large-sub {
+  padding:0px;
+}
+
+.stacked-column {
+  display:block;
+  padding:0px;
+}
+
+/*general*/
+
+img:hover {
+  opacity:0.6;
+  transition: opacity 0.5s;
+}
+
 @media screen and (max-width: 767px) {
   .gallery-title {
     text-align:center;
@@ -78,24 +100,3 @@ body {
   opacity:0.8;
 }
 
-/*sub-gallery styles*/
-
-.sub-gallery {
-  margin-top:6%;
-}
-
-.large-sub {
-  padding:0px;
-}
-
-.stacked-column {
-  display:block;
-  padding:0px;
-}
-
-/*general*/
-
-img:hover {
-  opacity:0.6;
-  transition: opacity 0.5s;
-}
